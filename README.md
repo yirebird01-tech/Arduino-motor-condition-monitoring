@@ -9,6 +9,10 @@ This Arduino Uno project monitors a simulated DC motor’s current and temperatu
 - Overtemperature shutdown
 - Manual reset after a fault
   
+[View the Tinkercad circuit schematic (PDF)](Arduino%20Motor%20Condition%20Monitoring%20and%20Protection%20Prototype.pdf)
+
+![Tinkercad breadboard layout](./Screenshot_25-11-2026_105941_www.tinkercad.com.jpeg)
+
 ## Simulation and physical prototype
 
 I simulated the Arduino Uno circuit in Tinkercad and also built a physical
