@@ -17,3 +17,14 @@ This project has two parts: a physical Arduino Uno prototype with circuit tests 
 
 I simulated the Arduino Uno circuit in Tinkercad and also built a physical
 prototype. The tests listed above were performed in Tinkercad.
+## Python/Streamlit Dashboard Simulation
+
+The dashboard uses simulated readings only. It displays motor current, but only temperature triggers a simulated trip.
+
+![Normal operation](01_normal_operation.jpg)
+
+![Simulated temperature trip](02_temperature_fault.jpg)
+
+![Temperature returned to normal, but the fault stayed active](03_cooled_but_latched.jpg)
+
+[Successful reset](04_successful_reset.jpg) · [Missing temperature data](05_missing_temperature.jpg)
