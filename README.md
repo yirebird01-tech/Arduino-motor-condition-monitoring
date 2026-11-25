@@ -43,4 +43,6 @@ The dashboard displays simulated temperature and current. **Only temperature tri
 
 4. **[After manual reset](04_successful_reset.jpg):** The simulated motor is running again, but the previous fault remains in the history.
 
-Additional test: [Missing temperature data](05_missing_temperature.jpg).
+### Additional Test: Missing Temperature Data
+
+![Dashboard showing missing temperature data](05_missing_temperature.jpg)
