@@ -1,6 +1,6 @@
 # Motor Condition Monitoring & Protection
 
-This Arduino Uno project monitors a simulated DC motor’s current and temperature. It stops the motor when it detects overcurrent or overheating.
+This project has two parts: a physical Arduino Uno prototype with circuit tests performed in Tinkercad, and a Python/Streamlit dashboard that demonstrates motor monitoring and fault handling using simulated data. The dashboard was not connected to the physical prototype.
 
 ## Tests in Tinkercad
 
