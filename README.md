@@ -1,4 +1,4 @@
-# Arduino Motor Condition Monitoring & Protection
+# Motor Condition Monitoring & Protection
 
 This Arduino Uno project monitors a simulated DC motor’s current and temperature. It stops the motor when it detects overcurrent or overheating.
 
