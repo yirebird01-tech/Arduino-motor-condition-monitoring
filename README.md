@@ -8,7 +8,7 @@ The photo and video show the physical breadboard build with the motor running an
 
 ![Physical Arduino Uno motor prototype with the fan spinning and green run LED lit](photo_2026-11-26_19-41-13.jpg)
 
-[Watch the physical motor demo (20 seconds)](physical-motor-demo.mp4)
+[Download the physical motor demo (20 seconds)](https://raw.githubusercontent.com/yirebird01-tech/Arduino-motor-condition-monitoring/main/physical-motor-demo.mp4)
 
 The photo and video show the hardware running. The fault-test results below are from Tinkercad, not from the physical demo.
 
