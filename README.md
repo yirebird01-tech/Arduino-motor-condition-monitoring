@@ -2,13 +2,15 @@
 
 I built an Arduino Uno breadboard prototype for DC motor monitoring and protection. I tested the circuit behavior separately in Tinkercad and built a Python/Streamlit dashboard to demonstrate fault handling with simulated data. The dashboard was not connected to the physical prototype.
 
-## 1. Physical Arduino Prototype
+## 1. Physical Arduino Motor Monitoring Prototype
 
 The photo and video show the physical breadboard build with the motor running and the green run LED lit.
 
 ![Physical Arduino Uno motor prototype with the fan spinning and green run LED lit](photo_2026-11-26_19-41-13.jpg)
 
-[Download the physical motor demo (20 seconds)](https://raw.githubusercontent.com/yirebird01-tech/Arduino-motor-condition-monitoring/main/physical-motor-demo.mp4)
+### Physical Arduino Motor Monitoring Video
+
+[Download the physical Arduino motor monitoring video (MP4, 20 seconds)](https://raw.githubusercontent.com/yirebird01-tech/Arduino-motor-condition-monitoring/main/physical-motor-demo.mp4)
 
 The photo and video show the hardware running. The fault-test results below are from Tinkercad, not from the physical demo.
 
